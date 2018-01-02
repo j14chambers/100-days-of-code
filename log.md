@@ -9,13 +9,12 @@
 **Link to work:** [Wikipedia Viewer](https://github.com/j14chambers/FCC-Projects/tree/master/Wikipedia%20Viewer)
 
 ### Day 2: January 2, 2018
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Took a previous Javascript code and push the results to HTML tags.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The javascript of the code was already written. I just had to add in the HTML and CSS. Then take the results of the Javascript code and put it into HTML tags. I used jquery for this. The hardest part was getting the text to appear when the 'enter' key was pressed.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/reversestring/reversestring.html)
 
 
 ### Day 1: June 27, Monday
