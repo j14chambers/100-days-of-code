@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, 2018
+## Day 1: January 1, 2018
 
 **Today's Progress**: Started on the HTML and CSS for  Wikipedia Viewer for FCC.
 
@@ -8,20 +8,68 @@
 
 **Link to work:** [Wikipedia Viewer](https://github.com/j14chambers/FCC-Projects/tree/master/Wikipedia%20Viewer)
 
-### Day 2: January 2, 2018
+
+## Day 2: January 2, 2018
 
 **Today's Progress**: Took a previous Javascript code and push the results to HTML tags.
 
 **Thoughts**: The javascript of the code was already written. I just had to add in the HTML and CSS. Then take the results of the Javascript code and put it into HTML tags. I used jquery for this. The hardest part was getting the text to appear when the 'enter' key was pressed.
 
-**Link(s) to work**: [Reverse A String](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/reversestring/reversestring.html)
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/reversestring)
 
 
-### Day 1: June 27, Monday
+## Day 3: January 3, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+
+
+## Day 4: January 4, 2018
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+
+
+## Day 5: January 5, 2018
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+
+
+## Day 6: January 6, 2018
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+
+
+## Day 7: January 7, 2018
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+
+
+## Day 8: January 8, 2018
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
