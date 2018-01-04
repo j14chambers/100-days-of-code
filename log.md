@@ -25,8 +25,8 @@
 **Thoughts** I still don't understand why the JSON won't work for the wikipedia viewer. Everything else seems to but the request to Wikipedia. I moved on to Charitable Organization. I started on the HTML and decided to use Bootstrap on this site. FireFox crashed on me when I was working on the forms and the site won't load, so I am calling it a day here. 
 
 **Link(s) to work**: 
-      [Wikipedia Viewer](https://github.com/j14chambers/FCC-Projects/tree/master/Wikipedia%20Viewer)
-      [Chariable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+1. [Wikipedia Viewer](https://github.com/j14chambers/FCC-Projects/tree/master/Wikipedia%20Viewer)
+2. [Chariable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 
 ## Day 4: January 4, 2018
