@@ -20,11 +20,13 @@
 
 ## Day 3: January 3, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Tried to complete Wikipdia Viewer/Started on new Site.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I still don't understand why the JSON won't work for the wikipedia viewer. Everything else seems to but the request to Wikipedia. I moved on to Charitable Organization. I started on the HTML and decided to use Bootstrap on this site. FireFox crashed on me when I was working on the forms and the site won't load, so I am calling it a day here. 
 
-**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+**Link(s) to work**: 
+      [Wikipedia Viewer](https://github.com/j14chambers/FCC-Projects/tree/master/Wikipedia%20Viewer)
+      [Chariable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 
 ## Day 4: January 4, 2018
