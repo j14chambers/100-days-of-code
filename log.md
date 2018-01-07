@@ -29,13 +29,14 @@
 2. [Chariable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 
-## Day 4: January 4, 2018
+## Day 4: January 6, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Factorial & JQuery
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I added HTML and CSS to the [Factorial](https://github.com/j14chambers/FCC-Projects/blob/master/JavaScript/factorial.html), allowing a user to enter in a number and get the factorial. 
+I learned how to reset(clear) the HTML from a certain tag.
 
-**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+**Link(s) to work**: [Factorial](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/factoral)
 
 
 ## Day 5: January 5, 2018
