@@ -39,7 +39,16 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Factorial](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/factoral)
 
 
-## Day 5: January 5, 2018
+## Day 5: January 7, 2018
+
+**Today's Progress**: Factorial CSS and Navbar
+
+**Thoughts** I added more content to the HTML by adding a sidebar menu. I have never did a sidebar before. I also added hover and active to the sidebar.
+
+**Link(s) to work**: [Factorial](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/factoral)
+
+
+## Day 6: January 8, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -48,7 +57,7 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
 
 
-## Day 6: January 6, 2018
+## Day 7: January 9, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -57,16 +66,7 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
 
 
-## Day 7: January 7, 2018
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
-
-
-## Day 8: January 8, 2018
+## Day 8: January , 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
