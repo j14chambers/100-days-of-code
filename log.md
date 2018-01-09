@@ -50,11 +50,11 @@ I learned how to reset(clear) the HTML from a certain tag.
 
 ## Day 6: January 8, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I completed the Wikipedia Viewer on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It a really long time to get this to work. I believe the problem was in the HTML and not the JS.
 
-**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+**Link(s) to work**: [Wikipedia Viewer](https://github.com/j14chambers/FCC-Projects/tree/master/Wikipedia%20Viewer)
 
 
 ## Day 7: January 9, 2018
