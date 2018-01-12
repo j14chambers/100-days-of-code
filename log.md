@@ -66,13 +66,68 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [TwitchTV](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
 
 
-## Day 8: January , 2018
+## Day 8: January 11, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
 
-**Link(s) to work**: [Reverse A String](https://github.com/j14chambers)
+**Link(s) to work**: [TwitchTV](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+
+
+## Day 9: January , 2018
+
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+
+**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+
+
+
+## Day 10: January , 2018
+
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+
+**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+
+
+## Day 11: January , 2018
+
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+
+**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+
+
+## Day 12: January , 2018
+
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+
+**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+
+
+## Day 13: January , 2018
+
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+
+**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+
+
+## Day : January , 2018
+
+**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+
+**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+
+**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
