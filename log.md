@@ -94,13 +94,13 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [TwitchTV](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
 
 
-## Day 11: January , 2018
+## Day 11: January 16, 2018
 
-**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+**Today's Progress**: I am still struggling with TwitchTV.
 
-**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+**Thoughts** So now I may live it at showing just FCC channel as per the requirments. I also have to show channels that are streaming but I cannot get the URL to return a response.
 
-**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+**Link(s) to work**: [TwitchTV](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
 
 
 ## Day 12: January , 2018
@@ -121,7 +121,7 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
 
 
-## Day : January , 2018
+## Day 14: January , 2018
 
 **Today's Progress**: I start TwitchTV on FreeCodeCamp.
 
