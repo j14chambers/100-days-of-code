@@ -121,13 +121,58 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Portfolio](https://github.com/j14chambers/Portfolio/tree/develop)
 
 
-## Day 14: January , 2018
+## Day 14: January 20, 2018
 
-**Today's Progress**: I start TwitchTV on FreeCodeCamp.
+**Today's Progress**: Charitable Organization 30 Days 30 Sites
 
-**Thoughts** I need to figure out how to get the data to return for the correct channel. Right now if 1 channel is online the rest show that they are online.
+**Thoughts** I started this website and created the home page. I made a credit form.
 
-**Link(s) to work**: [Project Name and URL](https://github.com/j14chambers/FCC-Projects/tree/master/Twitchtv)
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 15: January 23, 2018
+
+**Today's Progress**: Charitable Organization 30 Days 30 Sites
+
+**Thoughts** I created the Donate and Volunteer pages. I also included a nav bar that sticks to the top.
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 16: January 20, 2018
+
+**Today's Progress**: Charitable Organization 30 Days 30 Sites
+
+**Thoughts** I started this website and created the home page.
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 17: January 20, 2018
+
+**Today's Progress**: Charitable Organization 30 Days 30 Sites
+
+**Thoughts** I started this website and created the home page.
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 18: January 20, 2018
+
+**Today's Progress**: Charitable Organization 30 Days 30 Sites
+
+**Thoughts** I started this website and created the home page.
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 19: January 20, 2018
+
+**Today's Progress**: Charitable Organization 30 Days 30 Sites
+
+**Thoughts** I started this website and created the home page.
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
