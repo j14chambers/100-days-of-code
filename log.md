@@ -139,22 +139,23 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 
-## Day 16: January 20, 2018
+## Day 16: February 2, 2018
 
-**Today's Progress**: Charitable Organization 30 Days 30 Sites
+**Today's Progress**: Charitable Organization 30 Days 30 Sites & FCC- Sum of all numbers in the range
 
-**Thoughts** I started this website and created the home page.
-
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
-
-
-## Day 17: January 20, 2018
-
-**Today's Progress**: Charitable Organization 30 Days 30 Sites
-
-**Thoughts** I started this website and created the home page.
+**Thoughts** I finished up all the webpages for charitable organization and made a list of everything that needs to be adjusted for mobile responsiveness. I completed the FCC project under a hour.
 
 **Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+[Sum of All Numbers in the Range](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 17: February 4, 2018
+
+**Today's Progress**: FCC- Sum of all numbers in the range
+
+**Thoughts** I started to a JQuery into the file to interact with the HTML.
+
+**Link(s) to work**: [Sum of All Numbers in the Range](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
 ## Day 18: January 20, 2018
