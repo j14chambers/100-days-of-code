@@ -158,16 +158,16 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Sum of All Numbers in the Range](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 18: January 20, 2018
+## Day 18: Februray 5, 2018
 
-**Today's Progress**: Charitable Organization 30 Days 30 Sites
+**Today's Progress**: FCC- Sum of all numbers in the range
 
-**Thoughts** I started this website and created the home page.
+**Thoughts** I finished adding JQuery to the site.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+**Link(s) to work**: [Sum of All Numbers in the Range](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 19: January 20, 2018
+## Day 19: Februray , 2018
 
 **Today's Progress**: Charitable Organization 30 Days 30 Sites
 
