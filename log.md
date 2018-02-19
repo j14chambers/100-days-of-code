@@ -167,13 +167,59 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Sum of All Numbers in the Range](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 19: Februray , 2018
+## Day 19: Februray 18, 2018
 
 **Today's Progress**: Charitable Organization 30 Days 30 Sites
 
-**Thoughts** I started this website and created the home page.
+**Thoughts** Mobile Responsiveness and CSS changes.
 
 **Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 20: Februray 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 21: Februray 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 22: Februray 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 23: Februray 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 24: Februray 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
