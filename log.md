@@ -178,23 +178,14 @@ I learned how to reset(clear) the HTML from a certain tag.
 
 ## Day 20: Februray 19, 2018
 
-**Today's Progress**: 
+**Today's Progress**: FCC Diff Two Arrays
 
-**Thoughts**
+**Thoughts** I got the arrays to compare with each other. All I need to do is store the different indexes into one array.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
-
-
-## Day 21: Februray 19, 2018
-
-**Today's Progress**: 
-
-**Thoughts**
-
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+**Link(s) to work**: [Diff Two Arrays]()
 
 
-## Day 22: Februray 19, 2018
+## Day 21: Februray , 2018
 
 **Today's Progress**: 
 
@@ -203,7 +194,7 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 
-## Day 23: Februray 19, 2018
+## Day 22: Februray , 2018
 
 **Today's Progress**: 
 
@@ -212,7 +203,16 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
 
 
-## Day 24: Februray 19, 2018
+## Day 23: Februray , 2018
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+
+
+## Day 24: Februray , 2018
 
 **Today's Progress**: 
 
