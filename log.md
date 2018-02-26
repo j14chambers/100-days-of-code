@@ -181,17 +181,21 @@ I learned how to reset(clear) the HTML from a certain tag.
 **Today's Progress**: FCC Diff Two Arrays
 
 **Thoughts** I got the arrays to compare with each other. All I need to do is store the different indexes into one array.
+I also finished Sum of all numbers in a Range
 
-**Link(s) to work**: [Diff Two Arrays]()
+**Link(s) to work**: 
+[Sum All numbers in Range](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+[Diff Two Arrays](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 21: Februray , 2018
+## Day 21: Februray 25, 2018
 
-**Today's Progress**: 
+**Today's Progress**: FCC Diff Two Arrays
 
-**Thoughts**
+**Thoughts** The struggle was to real. I have spent too much time on this one program. I was really close to a solution, so I looked to other solutions to this program to see what I'm doing wrong.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+**Link(s) to work**: [Diff Two Arrays](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
 ## Day 22: Februray , 2018
