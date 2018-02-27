@@ -198,14 +198,14 @@ I also finished Sum of all numbers in a Range
 **Link(s) to work**: [Diff Two Arrays](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 22: Februray , 2018
+## Day 22: Februray 26, 2018
 
-**Today's Progress**: 
+**Today's Progress**: FCC Roman Numeral Converter
 
-**Thoughts**
+**Thoughts** At first this program seen impossible, but as I thought through the different parts of this program, it became easy. I broke this program into parts to make it easy on me. I started with the spliting the number up into single digits and from there I use if statements that would convert the digit into a roman numeral. then I join the roman numeral together.
+I tested each part of the if statements to make sure that they worked. But at the end the 4 and 9 would not convert. I will see about this problem later.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
-
+**Link(s) to work**: [Roman Numeral Converter](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 ## Day 23: Februray , 2018
 
