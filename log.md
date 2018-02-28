@@ -207,13 +207,13 @@ I tested each part of the if statements to make sure that they worked. But at th
 
 **Link(s) to work**: [Roman Numeral Converter](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
-## Day 23: Februray , 2018
+## Day 23: Februray 27, 2018
 
-**Today's Progress**: 
+**Today's Progress**: 30 Days 30 Sites Cruise Ship
 
-**Thoughts**
+**Thoughts** I set up the layout proir to starting the coding the site. I just copied the wireframe and the website looks good. I am using flexbox throughout this site. I added a image to the background of the page. This is a page that I wanted to do a full footer.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/Cruise%20ship)
 
 
 ## Day 24: Februray , 2018
