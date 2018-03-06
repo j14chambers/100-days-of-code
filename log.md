@@ -213,16 +213,33 @@ I tested each part of the if statements to make sure that they worked. But at th
 
 **Thoughts** I set up the layout proir to starting the coding the site. I just copied the wireframe and the website looks good. I am using flexbox throughout this site. I added a image to the background of the page. This is a page that I wanted to do a full footer.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/Cruise%20ship)
+**Link(s) to work**: [Cruise Ship](https://github.com/j14chambers/30days30sites/tree/master/Cruise%20ship)
 
 
-## Day 24: Februray , 2018
+## Day 24: March 1, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Portfolio V2
 
-**Thoughts**
+**Thoughts** I started to revise my portfolio. I plan to add in the latest and best of what I have completed this year.
 
-**Link(s) to work**: [Charitable Organization](https://github.com/j14chambers/30days30sites/tree/master/charitableorganization)
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+## Day 25: March 4, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts** I updated the home and Resume page. I added in the list tags into the resume. I made some minor changes to the home page.
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+## Day 26: March 5, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts** I updated some of my portfolio page.I added in images to page.
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 
 **Link(s) to work**
