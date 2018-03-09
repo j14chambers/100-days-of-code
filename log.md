@@ -242,6 +242,41 @@ I tested each part of the if statements to make sure that they worked. But at th
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 
+## Day 27: March 8, 2018
+
+**Today's Progress**: Free Code Camp Beta
+
+**Thoughts** I give beta a go to see what's on it. I finished the mobile responsive and started on flexbox.
+
+**Link(s) to work**: [Free Code Camp Beta](https://beta.freecodecamp.org/en/challenges)
+
+
+## Day 28: March , 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+## Day 29: March , 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+## Day 30: March , 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
