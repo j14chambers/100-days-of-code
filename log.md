@@ -251,13 +251,15 @@ I tested each part of the if statements to make sure that they worked. But at th
 **Link(s) to work**: [Free Code Camp Beta](https://beta.freecodecamp.org/en/challenges)
 
 
-## Day 28: March , 2018
+## Day 28: March 12, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Free Code Camp Roman Numeral Converter & wherefore Art Thou
 
-**Thoughts** 
+**Thoughts** I finally relize what was wrong with the roman numeral converter: the equal signs. I started on Wherefore Art Thou and it was simple at first, and then I submit the code I had. There was more to the  requirements than what I had realize. I thought I was finish but nope. I had to rewrite the whole code to fit the requirements.
 
-**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+**Link(s) to work**: [Roman Numeral Converter](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+[Wherefore Art Thou](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
 ## Day 29: March , 2018
