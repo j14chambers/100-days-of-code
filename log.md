@@ -262,20 +262,20 @@ I tested each part of the if statements to make sure that they worked. But at th
 [Wherefore Art Thou](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 29: March , 2018
+## Day 29: March 13, 2018
 
-**Today's Progress**: 
+**Today's Progress**: I mad no progress today. FCC Wherefor Art Thou
 
-**Thoughts** 
+**Thoughts** I am still struggling to get the right array to return. It work with some of the function, but I want it to work with this one that I can't get right.
 
-**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+**Link(s) to work**: [[Wherefore Art Thou](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
-## Day 30: March , 2018
+## Day 30: March 14, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Portfolio V2
 
-**Thoughts** 
+**Thoughts** I changed the home page. I change the list style on the resume page. I got the navbar to collaspe on mobile. I added more mobile responsiveness styling.
 
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
