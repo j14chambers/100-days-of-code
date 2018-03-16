@@ -279,6 +279,24 @@ I tested each part of the if statements to make sure that they worked. But at th
 
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
+
+## Day 31: March 15, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts** I corrected the .active class that allows the current page to change color to gold. I change the color of the brand text. Add a form to the contact page. Remove the gold border from the black box.
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+## Day 32: March 16, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts** 
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
