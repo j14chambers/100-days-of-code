@@ -289,13 +289,22 @@ I tested each part of the if statements to make sure that they worked. But at th
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 
-## Day 32: March 16, 2018
+## Day 32: March 18, 2018
 
 **Today's Progress**: Portfolio V2
 
-**Thoughts** 
+**Thoughts**  Continue making changes to portfolio
 
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+## Day 33: March 20, 2018
+
+**Today's Progress**: FCC Search and Replace
+
+**Thoughts** Very easy program to write. I done with it within 30 minutes. I added some html and css for this also.
+
+**Link(s) to work**: [Search and Replace](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
