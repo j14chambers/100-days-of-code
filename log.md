@@ -315,6 +315,15 @@ I tested each part of the if statements to make sure that they worked. But at th
 
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
+
+## Day 35: March 25, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts**  Continue making changes to portfolio. Finished working on the portfolio page. I added in description for each site that is being used in this site. I change the fonts and colors of a lot of list tags. I change the font-family of the paragraphs.
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
