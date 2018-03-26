@@ -316,13 +316,24 @@ I tested each part of the if statements to make sure that they worked. But at th
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 
-## Day 35: March 25, 2018
+## Day 35: March 22, 2018
 
 **Today's Progress**: Portfolio V2
 
 **Thoughts**  Continue making changes to portfolio. Finished working on the portfolio page. I added in description for each site that is being used in this site. I change the fonts and colors of a lot of list tags. I change the font-family of the paragraphs.
 
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+## Day 36: March 25, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts**  
+i completed this program in about 2 hrs. It seem hard, but after thinking about it more it became easy.
+
+**Link(s) to work**: [Portfolio](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
