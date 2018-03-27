@@ -327,10 +327,21 @@ I tested each part of the if statements to make sure that they worked. But at th
 
 ## Day 36: March 25, 2018
 
-**Today's Progress**: Portfolio V2
+**Today's Progress**: FCC Pig Lation
 
 **Thoughts**  
-i completed this program in about 2 hrs. It seem hard, but after thinking about it more it became easy.
+I completed this program in about 2 hrs. It seem hard, but after thinking about it more it became easy.
+
+**Link(s) to work**: [Portfolio](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 37: March 26, 2018
+
+**Today's Progress**: FCC Missing Letters & DNA Pairing
+
+**Thoughts**  
+I completed each program in about 1.5 hrs. It seem hard, but after thinking about it more it became simple.
+With Missing Letters, I had a hard time getting the missing letter. I at first returning the letter where the missing letter was. Then I eventually got the to the missing letter.
 
 **Link(s) to work**: [Portfolio](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
