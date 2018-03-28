@@ -332,7 +332,7 @@ I tested each part of the if statements to make sure that they worked. But at th
 **Thoughts**  
 I completed this program in about 2 hrs. It seem hard, but after thinking about it more it became easy.
 
-**Link(s) to work**: [Portfolio](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+**Link(s) to work**: [Pig Latin](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
 ## Day 37: March 26, 2018
@@ -343,7 +343,17 @@ I completed this program in about 2 hrs. It seem hard, but after thinking about 
 I completed each program in about 1.5 hrs. It seem hard, but after thinking about it more it became simple.
 With Missing Letters, I had a hard time getting the missing letter. I at first returning the letter where the missing letter was. Then I eventually got the to the missing letter.
 
-**Link(s) to work**: [Portfolio](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+**Link(s) to work**: [Missing Letters](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 38: March 27, 2018
+
+**Today's Progress**: FCC Boo Who, Convert HTML Entities, & Sorted Union
+
+**Thoughts**  
+This was a very easy day. There were some hiccups but nothing that could not get fixed. Boo Who returned true or false if function called true or false, otherwise it returned undefined. Sorted Union returned the numbers in an array, if the number was already in the array it removed that number. 
+
+**Link(s) to work**: [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
 **Link(s) to work**
