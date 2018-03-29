@@ -356,6 +356,16 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**: [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
+## Day 39: March 28, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts**  Continue making changes to portfolio. Finished working on the footer. I had problems with adding in the medium tag, seeing that I used a image instead of the bootstrap icons. I had problems with aligning them to the same height, but I got to work. I change the color of my footer and the color of each icon.
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
+
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
