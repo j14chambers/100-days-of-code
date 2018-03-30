@@ -365,6 +365,13 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 
+## Day 40: March 29, 2018
+
+**Today's Progress**: Portfolio V2
+
+**Thoughts**  Continue making changes to portfolio. Adjust the images sizes on tablet portrait mode. I had to stretch the images because I could not figure out how to center the image (using Bootstrap). I rewrote the content.
+
+**Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
