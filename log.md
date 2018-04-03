@@ -373,6 +373,16 @@ This was a very easy day. There were some hiccups but nothing that could not get
 
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
+
+## Day 40: March 29, 2018
+
+**Today's Progress**: FCC Wherefore Art Thou
+
+**Thoughts**  I came back to finish this. I am almost done but I can't get the last test to work, but all the others work.
+
+**Link(s) to work**: [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
