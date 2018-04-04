@@ -374,11 +374,20 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**: [Portfolio](https://j14chambers.github.io/Portfolio/index.html)
 
 
-## Day 40: March 29, 2018
+## Day 41: April 2, 2018
 
 **Today's Progress**: FCC Wherefore Art Thou
 
 **Thoughts**  I came back to finish this. I am almost done but I can't get the last test to work, but all the others work.
+
+**Link(s) to work**: [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 42: April 3, 2018
+
+**Today's Progress**: FCC Wherefore Art Thou
+
+**Thoughts**  I am done with this program. I have spent too much time on it. I did not finish it. I may return at the end maybe not.
 
 **Link(s) to work**: [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
