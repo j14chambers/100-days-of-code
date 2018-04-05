@@ -392,6 +392,15 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**: [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 
+## Day 43: April 4, 2018
+
+**Today's Progress**: CodePen - CSS Grid
+
+**Thoughts**  I started learning how to use CSS Grid. More to learn on a later date.
+
+**Link(s) to work**: [CSS Grid](https://codepen.io/j14chambers/pen/WzgMRp)
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
