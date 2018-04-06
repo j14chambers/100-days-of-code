@@ -400,6 +400,14 @@ This was a very easy day. There were some hiccups but nothing that could not get
 
 **Link(s) to work**: [CSS Grid](https://codepen.io/j14chambers/pen/WzgMRp)
 
+## Day 44: April 5, 2018
+
+**Today's Progress**: Node.js & CSS Grid
+
+**Thoughts**  I started learning how to use Node.js
+
+**Link(s) to work**:
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
