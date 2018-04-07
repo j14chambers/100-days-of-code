@@ -400,13 +400,26 @@ This was a very easy day. There were some hiccups but nothing that could not get
 
 **Link(s) to work**: [CSS Grid](https://codepen.io/j14chambers/pen/WzgMRp)
 
+
 ## Day 44: April 5, 2018
 
 **Today's Progress**: Node.js & CSS Grid
 
-**Thoughts**  I started learning how to use Node.js
+**Thoughts**  I started learning how to use Node.js.
 
 **Link(s) to work**:
+
+
+
+## Day 45: April 6, 2018
+
+**Today's Progress**: CSS Grid & README.md
+
+**Thoughts**  I picked up where I left off with CSS Grid. I also went through old respositories and rewrote README files.
+
+**Link(s) to work**:[CSS Grid-1](https://codepen.io/j14chambers/pen/WzgMRp?editors=1100)
+
+
 
 
 **Link(s) to work**
