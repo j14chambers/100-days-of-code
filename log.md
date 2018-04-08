@@ -428,3 +428,13 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**
 1. [404-page](https://github.com/j14chambers/30days30sites/tree/master/404page)
 2. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 47: April 8, 2018
+
+**Today's Progress**: FCC Fibonacci Numbers
+
+**Thoughts** I struggle with this one today. I could not figure out how to get the current numbers to equal the next number. It would always return the wrong value. Then I look to the hint and I saw what I was doing wrong. 
+
+**Link(s) to work** 
+1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
