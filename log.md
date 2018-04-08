@@ -410,7 +410,6 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**:
 
 
-
 ## Day 45: April 6, 2018
 
 **Today's Progress**: CSS Grid & README.md
@@ -420,8 +419,12 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Link(s) to work**:[CSS Grid-1](https://codepen.io/j14chambers/pen/WzgMRp?editors=1100)
 
 
+## Day 46: April 7, 2018
 
+**Today's Progress**: 404 Page & FCC Spinal Tap Case
+
+**Thoughts**  I made a 404 web page. I completed the spinal tap case program from css.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [404-page](https://github.com/j14chambers/30days30sites/tree/master/404page)
+2. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
