@@ -438,3 +438,12 @@ This was a very easy day. There were some hiccups but nothing that could not get
 
 **Link(s) to work** 
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+## Day 48: April 10, 2018
+
+**Today's Progress**: FCC Sum All Prime
+
+**Thoughts** I finshed under 30 minutes. This was simple program to write. 
+
+**Link(s) to work** 
+1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
