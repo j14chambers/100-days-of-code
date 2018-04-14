@@ -453,3 +453,14 @@ This was a very easy day. There were some hiccups but nothing that could not get
 **Today's Progress**: Node.js & Express.js
 
 **Thoughts** I worked though a tutorial for Express.js. 
+
+## Day 50: April 14, 2018
+
+**Today's Progress**: Node.js & Express.js / FCC Smallest common multiple
+
+**Thoughts** I worked though a tutorial for Express.js. I stopped because I MonogoDB would not install. 
+
+I went on to FCC and started on the next program. 
+
+**Link(s) to work** 
+1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
