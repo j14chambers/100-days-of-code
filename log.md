@@ -447,3 +447,9 @@ This was a very easy day. There were some hiccups but nothing that could not get
 
 **Link(s) to work** 
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+## Day 49: April 13, 2018
+
+**Today's Progress**: Node.js & Express.js
+
+**Thoughts** I worked though a tutorial for Express.js. 
