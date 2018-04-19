@@ -464,3 +464,13 @@ I went on to FCC and started on the next program.
 
 **Link(s) to work** 
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 51: April 18, 2018
+
+**Today's Progress**: Node.js & Express.js / FCC Smallest common multiple
+
+**Thoughts** I finally figured out how to run JS in the terminal using node. I am also continuing FCC.  
+
+**Link(s) to work** 
+1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
