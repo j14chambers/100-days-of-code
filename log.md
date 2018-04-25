@@ -474,3 +474,13 @@ I went on to FCC and started on the next program.
 
 **Link(s) to work** 
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 52: April 24, 2018
+
+**Today's Progress**: FCC Smallest common multiple
+
+**Thoughts** I finished this program for FCC. I could not figure it out with looking at the solution. 
+
+**Link(s) to work** 
+1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
