@@ -484,3 +484,10 @@ I went on to FCC and started on the next program.
 
 **Link(s) to work** 
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 53: April 27, 2018
+
+**Today's Progress**: MongoDB Installation
+
+**Thoughts** I got mongo to install this time, but I could not get it set up and running. 
