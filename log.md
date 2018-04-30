@@ -485,9 +485,28 @@ I went on to FCC and started on the next program.
 **Link(s) to work** 
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
+## Day 53: April 25, 2018
+## Day 54: April 25, 2018
 
-## Day 53: April 27, 2018
+## Day 55: April 27, 2018
 
 **Today's Progress**: MongoDB Installation
 
-**Thoughts** I got mongo to install this time, but I could not get it set up and running. 
+**Thoughts** I got mongo to install this time, but I could not get it set up and running 
+
+
+## Day 57: April 28, 2018
+
+**Today's Progress**: MongoDB Cousrse
+
+**Thoughts** Started working though video after finding a way to use mongoDB
+
+
+## Day 58: April 29, 2018
+
+**Today's Progress**: MongoDB Course & ExpressJS Crash Course & Web page in Codepen
+
+**Thoughts** Finished the MongoDB Video and moved back to the Express Video.
+I made a web page dedicated to Imagine Dragons. It a simple web page.
+
+[Imagine Dragons](https://codepen.io/j14chambers/pen/BxpvRO)
