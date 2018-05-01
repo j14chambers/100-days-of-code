@@ -510,3 +510,13 @@ I went on to FCC and started on the next program.
 I made a web page dedicated to Imagine Dragons. It a simple web page.
 
 [Imagine Dragons](https://codepen.io/j14chambers/pen/BxpvRO)
+
+## Day 59: April 30, 2018
+
+**Today's Progress**: FCC Finders Keepers & Drop It
+
+**Thoughts**: Finish Finders Keepers and had no problems in doing this one.
+
+Drop It has some hiccups but it got done today.
+
+[FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
