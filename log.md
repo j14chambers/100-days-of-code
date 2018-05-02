@@ -520,3 +520,12 @@ I made a web page dedicated to Imagine Dragons. It a simple web page.
 Drop It has some hiccups but it got done today.
 
 [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 60: May 1, 2018
+
+**Today's Progress**: FCC Steamroller & binary agents & Everything Be True
+
+**Thoughts**: Finished 3 programs today.
+
+[FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
