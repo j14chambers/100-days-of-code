@@ -529,3 +529,10 @@ Drop It has some hiccups but it got done today.
 **Thoughts**: Finished 3 programs today.
 
 [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
+
+
+## Day 61: May 2, 2018
+
+**Today's Progress**: Design and Codepen
+
+**Thoughts**: Completed the wireframe for the calculator program and started on a new randon web page.
