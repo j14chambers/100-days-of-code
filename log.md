@@ -536,3 +536,10 @@ Drop It has some hiccups but it got done today.
 **Today's Progress**: Design and Codepen
 
 **Thoughts**: Completed the wireframe for the calculator program and started on a new randon web page.
+
+
+## Day 62: May 3, 2018
+
+**Today's Progress**: Express JS Crash Course Completed
+
+**Thoughts**: Completed this course finally!! Created a database using mongoDB and use mongojs to intergrate that database into the Node app. The app creates and deletes users from the database.
