@@ -543,3 +543,22 @@ Drop It has some hiccups but it got done today.
 **Today's Progress**: Express JS Crash Course Completed
 
 **Thoughts**: Completed this course finally!! Created a database using mongoDB and use mongojs to intergrate that database into the Node app. The app creates and deletes users from the database.
+
+
+## Day 63: May 4, 2018
+
+## Day 64: May 5, 2018
+
+**Today's Progress**: CSS Grid Responsive Website
+
+**Thoughts**: This was a walk-thru tutorial from Traversy Media on YouTube.
+
+## Day 65: May 6, 2018
+
+## Day 66: May 7, 2018
+
+**Today's Progress**: FCC JS Calculator
+
+**Thoughts**: Started on Calculator app. I have completed the layout for the buttons and added color. The color might not be the final color for the operators. I don't like that green.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
