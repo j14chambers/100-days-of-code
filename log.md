@@ -563,7 +563,7 @@ Drop It has some hiccups but it got done today.
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
 
-## Day 66: May 7, 2018
+## Day 67: May 7, 2018
 
 **Today's Progress**: FCC JS Calculator
 
