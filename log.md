@@ -562,3 +562,20 @@ Drop It has some hiccups but it got done today.
 **Thoughts**: Started on Calculator app. I have completed the layout for the buttons and added color. The color might not be the final color for the operators. I don't like that green.
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+## Day 66: May 7, 2018
+
+**Today's Progress**: FCC JS Calculator
+
+**Thoughts**: Added in the buttons for each key.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+
+## Day 68: May 9, 2018
+
+**Today's Progress**: Codepen God of War
+
+**Thoughts**: I started on this last week and didn't like the color and layout of the content. I added in more images and change font. I got stuck with the flexbox images under characters. the middle images did would not resize correctly, but I fixed this.
+
+[God of War](https://codepen.io/j14chambers/full/GdQYYo/)
