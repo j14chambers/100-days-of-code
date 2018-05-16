@@ -486,7 +486,7 @@ I went on to FCC and started on the next program.
 1. [FCC](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/Intermediate%20Algorithm%20Scripting)
 
 ## Day 53: April 25, 2018
-## Day 54: April 25, 2018
+## Day 54: April 26, 2018
 
 ## Day 55: April 27, 2018
 
@@ -510,6 +510,7 @@ I went on to FCC and started on the next program.
 I made a web page dedicated to Imagine Dragons. It a simple web page.
 
 [Imagine Dragons](https://codepen.io/j14chambers/pen/BxpvRO)
+
 
 ## Day 59: April 30, 2018
 
@@ -546,7 +547,6 @@ Drop It has some hiccups but it got done today.
 
 
 ## Day 63: May 4, 2018
-
 ## Day 64: May 5, 2018
 
 **Today's Progress**: CSS Grid Responsive Website
@@ -554,7 +554,6 @@ Drop It has some hiccups but it got done today.
 **Thoughts**: This was a walk-thru tutorial from Traversy Media on YouTube.
 
 ## Day 65: May 6, 2018
-
 ## Day 66: May 7, 2018
 
 **Today's Progress**: FCC JS Calculator
@@ -562,6 +561,7 @@ Drop It has some hiccups but it got done today.
 **Thoughts**: Started on Calculator app. I have completed the layout for the buttons and added color. The color might not be the final color for the operators. I don't like that green.
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
 
 ## Day 67: May 7, 2018
 
@@ -574,8 +574,32 @@ Drop It has some hiccups but it got done today.
 
 ## Day 68: May 9, 2018
 
-**Today's Progress**: Codepen God of War
+**Today's Progress**: Codepen God of War & Design Habit app
 
 **Thoughts**: I started on this last week and didn't like the color and layout of the content. I added in more images and change font. I got stuck with the flexbox images under characters. the middle images did would not resize correctly, but I fixed this.
 
+I started on the brainstorming for an app that I want to build.
+
 [God of War](https://codepen.io/j14chambers/full/GdQYYo/)
+
+
+## Day 69: May 10, 2018
+
+**Today's Progress**: FCC JS Calculator
+
+**Thoughts**: Completed the buttons and remove the div tags from around them. Adjust the CSS. Added in the footer and header.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+
+## Day 70: May 11, 2018
+## Day 71: May 12, 2018
+## Day 72: May 13, 2018
+## Day 73: May 14, 2018
+## Day 74: May 15, 2018
+
+**Today's Progress**: FCC JS Calculator
+
+**Thoughts**: Worked on the JS. The calculator does operations. Num2 cannot compute numbers less than 10. I think the clear button works. I am not sure if it does or not. 
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
