@@ -603,3 +603,13 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: Worked on the JS. The calculator does operations. Num2 cannot compute numbers less than 10. I think the clear button works. I am not sure if it does or not. 
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+
+## Day 75: May 16, 2018
+
+**Today's Progress**: 30 Days 30 Sites Page
+
+**Thoughts**: I came back to finish this site. I added in the images and links for the pages featured on the home page. I change the CSS from what it orginally was. It looks better now . I will have to come back and add in the descriptions for each site and add more content to the header.
+
+[30 Days 30 Sites Website](https://j14chambers.github.io/30days30sites)
+[30 Days 30 Sites Github](https://github.com/j14chambers/30days30sites)
