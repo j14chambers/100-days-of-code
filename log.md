@@ -613,3 +613,12 @@ I started on the brainstorming for an app that I want to build.
 
 [30 Days 30 Sites Website](https://j14chambers.github.io/30days30sites)
 [30 Days 30 Sites Github](https://github.com/j14chambers/30days30sites)
+
+## Day 76: May 17, 2018
+## Day 77: May 18, 2018
+
+**Today's Progress**: Node JS Project Tutorial
+
+**Thoughts**: Worked on Video 1 - 3. Installed pug and is using it as opposed to using html files.
+
+[Node Project](https://github.com/j14chambers/Node-Project.git)
