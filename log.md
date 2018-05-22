@@ -622,3 +622,18 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: Worked on Video 1 - 3. Installed pug and is using it as opposed to using html files.
 
 [Node Project](https://github.com/j14chambers/Node-Project.git)
+
+
+## Day 78: May 19, 2018
+**Today's Progress**: CSS Grid Tutorial
+
+**Thoughts**: Worked through a tutorial. It cleared a lot of things that were confusing to me when I started learning CSS Grid.
+
+## Day 79: May 20, 2018
+## Day 80: May 21, 2018
+
+**Today's Progress**: FCC JS Calculator
+
+**Thoughts**: I redid the functions for sorting through the numbers and operators. It took a whole night but I got the numbers to together. (they would always come back as single digits when they were double digits or more.) I moved on the testing this functions and found out that clear does not work.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
