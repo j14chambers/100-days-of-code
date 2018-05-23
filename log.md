@@ -637,3 +637,13 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: I redid the functions for sorting through the numbers and operators. It took a whole night but I got the numbers to together. (they would always come back as single digits when they were double digits or more.) I moved on the testing this functions and found out that clear does not work.
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+
+## Day 81: May 22, 2018
+
+**Today's Progress**: FCC JS Calculator
+
+**Thoughts**: I finished the project today. I fixed all that I needed to fix. The calculator operates. It may not be the most functional written code but it works.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+[FCC JS Calclator Codepen](https://codepen.io/j14chambers/full/OZGbMG/)
