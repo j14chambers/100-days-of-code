@@ -647,3 +647,12 @@ I started on the brainstorming for an app that I want to build.
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
 [FCC JS Calclator Codepen](https://codepen.io/j14chambers/full/OZGbMG/)
+
+## Day 82: May 23, 2018
+## Day 83: May 24, 2018
+
+**Today's Progress**: Node JS Project Tutorial
+
+**Thoughts**: Worked on Video 4 - 7. Installed Bower, Mongoose and body parser to project. I got the database to work and I now fully understand how to use mongo from the command line. The site is an article database. Now the articles can be clicked on and it will that you to take particular article.
+
+[Node Project](https://github.com/j14chambers/Node-Project.git)
