@@ -656,3 +656,11 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: Worked on Video 4 - 7. Installed Bower, Mongoose and body parser to project. I got the database to work and I now fully understand how to use mongo from the command line. The site is an article database. Now the articles can be clicked on and it will that you to take particular article.
 
 [Node Project](https://github.com/j14chambers/Node-Project.git)
+
+## Day 84: May 25, 2018
+
+**Today's Progress**: Node JS Project Tutorial
+
+**Thoughts**: Add in edit and delete. Edit article does not work, nor does the submitting changes made to that article.The author and title are not showing up, but the body is.Today coding has me defeated. I don't even fill like debugging this code, because I really don't know what's going on.
+
+[Node Project](https://github.com/j14chambers/Node-Project.git)
