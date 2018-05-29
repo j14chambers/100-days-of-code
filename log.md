@@ -664,3 +664,21 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: Add in edit and delete. Edit article does not work, nor does the submitting changes made to that article.The author and title are not showing up, but the body is.Today coding has me defeated. I don't even fill like debugging this code, because I really don't know what's going on.
 
 [Node Project](https://github.com/j14chambers/Node-Project.git)
+
+## Day 85: May 26, 2018
+
+**Today's Progress**: Css Grid- Looney Tunes
+
+**Thoughts**: For my final CSS Grid project, I want to put together a website made with css grid. I choose the topic, Looney Tunes. I plan to make 5 or 6 pages.
+
+[Node Project](https://github.com/j14chambers/Looney-Tunes.git)
+
+
+## Day 86: May 27, 2018
+## Day 87: May 28, 2018
+
+**Today's Progress**: FCC Pomodoro Clock
+
+**Thoughts**: I started on this project. I started with thinking that I would need a way to work with time in javascript. Now I think that I just need to take the hours and minutes given and find a way to count that down by the seconds and minutes.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
