@@ -715,6 +715,6 @@ I started on the brainstorming for an app that I want to build.
 
 **Today's Progress**: FCC Pomodoro Clock
 
-**Thoughts**: 
+**Thoughts**: I think that I got the timer to work. I just have to get it keep going until hours and minutes are at 0;
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
