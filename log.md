@@ -718,3 +718,12 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: I think that I got the timer to work. I just have to get it keep going until hours and minutes are at 0;
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+
+## Day 95: June 5, 2018
+
+**Today's Progress**: FCC Pomodoro Clock
+
+**Thoughts**: I got nowhere today. I still have to figure out how to get the seconds to loop back after it hits zero.
+
+[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
