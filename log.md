@@ -727,3 +727,42 @@ I started on the brainstorming for an app that I want to build.
 **Thoughts**: I got nowhere today. I still have to figure out how to get the seconds to loop back after it hits zero.
 
 [FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+
+## Day 96: June 6, 2018
+**Today's Progress**: Landing Page Wireframe in Gravit.
+
+
+## Day 97: June 7, 2018
+
+**Today's Progress**: Node Project
+
+**Thoughts**: I got to video 8 and stop. I have enough to work with. It is funtional at this point as a whole database.
+
+[Node Project](https://github.com/j14chambers/Node-Project.git)
+
+
+## Day 98: June 8, 2018
+
+**Today's Progress**: Codepen Buttons and Progress Bar
+
+**Thoughts**: Today was random. I did a bunch of buttons and found that there is a progress bar tag.
+
+[Buttons & Progress Bar](https://codepen.io/j14chambers/pen/dKNyje?editors=1100)
+
+
+## Day 99: June 9, 2018
+
+**Today's Progress**: Node Project
+
+**Thoughts**:
+
+[Node Project](https://github.com/j14chambers/Node-Project.git)
+
+
+## Day 100: June 10, 2018
+
+**Today's Progress**: Node Project
+
+**Thoughts**: 
+
+[Node Project](https://github.com/j14chambers/Node-Project.git)
