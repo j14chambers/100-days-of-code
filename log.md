@@ -681,7 +681,7 @@ I started on the brainstorming for an app that I want to build.
 
 **Thoughts**: I started on this project. I started with thinking that I would need a way to work with time in javascript. Now I think that I just need to take the hours and minutes given and find a way to count that down by the seconds and minutes.
 
-[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+[Pomodoro Clock](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
 
 
 ## Day 88: May 29, 2018
@@ -717,7 +717,7 @@ I started on the brainstorming for an app that I want to build.
 
 **Thoughts**: I think that I got the timer to work. I just have to get it keep going until hours and minutes are at 0;
 
-[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+[Pomodoro Clock](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
 
 
 ## Day 95: June 5, 2018
@@ -726,7 +726,7 @@ I started on the brainstorming for an app that I want to build.
 
 **Thoughts**: I got nowhere today. I still have to figure out how to get the seconds to loop back after it hits zero.
 
-[FCC JS Calculator](https://github.com/j14chambers/FCC-Projects/tree/master/JavaScript/JS%Calulator)
+[Pomodoro Clock](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
 
 ## Day 96: June 6, 2018
 **Today's Progress**: Landing Page Wireframe in Gravit.
@@ -751,18 +751,4 @@ I started on the brainstorming for an app that I want to build.
 
 
 ## Day 99: June 9, 2018
-
-**Today's Progress**: Node Project
-
-**Thoughts**:
-
-[Node Project](https://github.com/j14chambers/Node-Project.git)
-
-
 ## Day 100: June 10, 2018
-
-**Today's Progress**: Node Project
-
-**Thoughts**: 
-
-[Node Project](https://github.com/j14chambers/Node-Project.git)
