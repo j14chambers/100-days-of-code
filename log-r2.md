@@ -1,15 +1,28 @@
 
 # 100 Days of Code - Round 2
+## Day 5: June 15, 2018
+### Project: Node Project
+-
+#### Task:
+- Modify CSS
+- Start Video 8
+#### Notes:
+- Add Landing Page to FCC
 
-## Day 3: June 13, 2018
-### Project: [Landing Page]()
+## Day 4: June 14, 2018
+### Project: [Landing Page](https://codepen.io/j14chambers/pen/OEjqyM)
 #### Task:
 - Start and complete Landing page. Use Gravit to code page.
 - Place in a codepen.
+- Mobile Responsiveness.
 #### Notes:
--
--
+- Have integrate into portfolio
+- Listened to 2 podcasts and read more of 'The Ethereal'
+### Project: Update Readmes
+#### Task:
+- It's time to update readme files on all my github respositories.
 
+## Day 3: June 13, 2018
 
 ## Day 2: June 12, 2018
 ### Project: [Build a Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
