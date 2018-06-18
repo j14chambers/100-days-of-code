@@ -1,11 +1,42 @@
 
 # 100 Days of Code - Round 2
-## Day 5: June 15, 2018
-### Project: Node Project
--
+
+
+## Day : June , 2018
+### Project: []()
 #### Task:
-- Modify CSS
-- Start Video 8
+-
+-
+#### Notes:
+-
+-
+## Day 9: June 19, 2018
+### Project: [Node Project]()
+#### Task:
+- Change CSS
+- Maybe Start Video #8
+#### Notes:
+- 
+-
+
+## Day 8: June 18, 2018
+### Project: [Landing Page](https://codepen.io/j14chambers/pen/OEjqyM)
+#### Task:
+- Make more Responsive
+- Adjust social media icons
+#### Notes:
+- Logo Image is not centered and may be too big for screen size. Have to find a way to adjust with screen size.
+- Redo the mobile responsive layouts.
+- Interview at 12 with Waitr
+
+## Day 7: June 17, 2018
+#### Notes:
+- New BUJO Week
+- Mini Brainstorm in notebook
+
+## Day 6: June 16, 2018
+## Day 5: June 15, 2018
+
 #### Notes:
 - Add Landing Page to FCC
 
