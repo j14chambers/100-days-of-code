@@ -10,7 +10,7 @@
 #### Notes:
 -
 -
-## Day 9: June 19, 2018
+## Day 11: June 21, 2018
 ### Project: [Node Project]()
 #### Task:
 - Change CSS
@@ -18,6 +18,16 @@
 #### Notes:
 - 
 -
+
+## Day 10: June 20, 2018
+### Project: [Buttons](https://codepen.io/j14chambers/pen/dKNyje)
+#### Task:
+- Given each button a jquery function
+-
+#### Notes:
+- Completed the first week videos and quizzes.
+
+## Day 9: June 19, 2018
 
 ## Day 8: June 18, 2018
 ### Project: [Landing Page](https://codepen.io/j14chambers/pen/OEjqyM)
