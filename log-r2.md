@@ -11,6 +11,17 @@
 #### Notes:
 -
 -
+## Day 16: June 26, 2018
+
+#### Tasks:
+### Project: [Technical Documentation Page](https://github.com/j14chambers/FCC-Projects/tree/master/Technical%Documentation%Page)
+- I used Questions of the Week for this.
+- Add in CSS and HTML
+- Use user story from FCC
+#### Notes:
+### Google IT Specialist
+- Complete half of Users and Group for wk 2
+
 ## Day 15: June 25, 2018
 #### Tasks:
 ### Project: [Landing Page](https://codepen.io/j14chambers/pen/OEjqyM)
