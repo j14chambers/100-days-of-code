@@ -3,27 +3,38 @@
 
 
 ## Day : June , 2018
-### Project: []()
-#### Task:
--
--
-#### Notes:
--
--
-## Day 11: June 21, 2018
-### Project: [Node Project]()
-#### Task:
-- Change CSS
-- Maybe Start Video #8
-#### Notes:
-- 
--
 
+#### Tasks:
+### Project: []()
+-
+-
+#### Notes:
+-
+-
+## Day 15: June 25, 2018
+#### Tasks:
+### Project: [Landing Page](https://codepen.io/j14chambers/pen/OEjqyM)
+- Add Links
+- Update CSS
+- Fix image sizing
+#### Notes:
+- Finished the QuikLabs. Wk 1 is complete.
+- Meduim article is complete
+## Day 14: June 24, 2018
+## Day 13: June 23, 2018
+#### Task:
+- I wrote a whole article in one sitting. I will pusblish it on Monday.
+- I read a chapter and half in the book 'The Ethereal'
+## Day 12: June 22, 2018
+#### Task:
+- Watched a video on CSS Variables. This will lead to a follow up on SASS.
+
+## Day 11: June 21, 2018
 ## Day 10: June 20, 2018
+
 ### Project: [Buttons](https://codepen.io/j14chambers/pen/dKNyje)
 #### Task:
 - Given each button a jquery function
--
 #### Notes:
 - Completed the first week videos and quizzes.
 
