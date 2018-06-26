@@ -4,13 +4,12 @@ A challenge dedicated to Web Development. This does not only include coding.
 ### Coding
 Code for an hours each day.
 * Free Code Camp
-
 * 100 Days of Code
-
-* Learning
+* Learning Objectives
+* Codepen
 
 		
-### Learning something 
+### Learning Something New 
 
 * Google IT - Coursera
 * Coding - Node.js/Express.js/MongoDB
@@ -21,11 +20,12 @@ Code for an hours each day.
 * Designing in Figma or Gravitt
 * Anything pertaining to web applications
 * Wireframing and User stories/journey 
+* Drawing
 		
 ### Journal/Writing/Blog
 
 * Post once a week on weekly tasks. Make notes on the 100 days. 
-* Write medium post as usual. 
+* Write Medium post as usual. 
 * Brainstorming Sessions (Weekly)
 
 ## Rules:
@@ -39,4 +39,4 @@ I set up my schedule to where majority of my time is spent coding.
 2. Keep the challenge going. (Steak)
 
 	Try not to skip any days. This challenge is made easy to not skip any days. Thus I am always working on something.
-3. Track progress through a [log] (log.md), [blog], [tweets] and [Instagram]. 
+3. Track progress through a the [log](log.md), [blog](https://medium.com/@JMSPACE), tweets and Instagram. 
