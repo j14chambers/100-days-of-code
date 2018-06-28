@@ -2,15 +2,20 @@
 # 100 Days of Code - Round 2
 
 
-## Day : June , 2018
+## Day 17: June 27, 2018
 
 #### Tasks:
-### Project: []()
--
--
+### Project: [Technical Documentation Page](https://github.com/j14chambers/FCC-Projects/tree/master/Technical%Documentation%Page)
+- Add in description for each section
+- Add to Codepen
+- Add to Readme
 #### Notes:
--
--
+- Completed Responsive Web Design for FCC
+- Read Pages from book 'the Ethereal'
+### Google IT Specialist
+- Complete Users and Group
+- Started on Permissions
+
 ## Day 16: June 26, 2018
 
 #### Tasks:
@@ -18,7 +23,7 @@
 - I used Questions of the Week for this.
 - Add in CSS and HTML
 - Use user story from FCC
-#### Notes:
+
 ### Google IT Specialist
 - Complete half of Users and Group for wk 2
 
