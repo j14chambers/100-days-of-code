@@ -2,6 +2,17 @@
 # 100 Days of Code - Round 2
 
 
+
+## Day 18: June 28, 2018
+
+#### Tasks:
+### Project: [Node Project 1]()
+- Add in my own CSS, classes, and IDs
+- I have to figure out how to format the pargraphs in the data.
+- This make become the site that I do for a full website wireframe.
+### Google IT Specialist
+- Completed Permissions
+
 ## Day 17: June 27, 2018
 
 #### Tasks:
