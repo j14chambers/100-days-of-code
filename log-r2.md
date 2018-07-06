@@ -2,6 +2,41 @@
 # 100 Days of Code - Round 2
 
 
+## Day : July , 2018
+#### Tasks:
+### Project:
+
+
+## Day 26: July 6, 2018
+#### Tasks:
+### Project: Wireframe Design 1
+- Design in Figma complete.
+- I noticed some differences in the both programs. Figma had a slow start, it may be a bug or it eats up a lot of my processor. Figma can have multiple components on a page. Objects can be renamed.
+
+## Day 25: July 5, 2018
+#### Tasks:
+### Project: Wireframe Design 1
+- Design in Gravit complete. 
+- I like Gravit better. There are some things that I wish it had, but it may be the design program that I use.
+- There are images that I can use to make the wireframe more like the actuall site that would be coded.
+### Google IT Specialist
+- Software Distributon
+
+## Day 24: July 4, 2018
+## Day 23: July 3, 2018
+
+## Day 22: July 2, 2018
+#### Tasks:
+### Project:[CSS Variables](https://codepen.io/j14chambers/pen/OEqxwz?editors=0110)
+- I followed along with a tutorial from Travsery Media. Then I added on the the page.
+- Added images, other sections, and a nav bar.
+- NOT MOBILE RESPONSIVE
+### Google IT Specialist
+- Quiklab for Windows and Linux
+
+## Day 21: July 1, 2018
+## Day 20: June 30, 2018
+## Day 19: June 29, 2018
 
 ## Day 18: June 28, 2018
 
