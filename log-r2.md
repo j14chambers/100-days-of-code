@@ -12,6 +12,7 @@
 ### Project: Wireframe Design 1
 - Design in Figma complete.
 - I noticed some differences in the both programs. Figma had a slow start, it may be a bug or it eats up a lot of my processor. Figma can have multiple components on a page. Objects can be renamed.
+- Move folders around.
 
 ## Day 25: July 5, 2018
 #### Tasks:
