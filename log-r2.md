@@ -9,9 +9,12 @@
 
 ## Day 28: July 8, 2018
 #### Tasks:
-### Project:
-#### Notes:
-##### Ubuntu
+### Project: [Wireframe Design 1](https://github.com/j14chambers/Wireframe-Designs/tree/master/Design%201)
+- Layout skeleton of page
+- Add CSS to skeleton
+- include wireframe and color images
+
+### Ubuntu
 - Install VS Code and add extensions. 
 - Install Git and added respostories to github folder on 
 
@@ -21,19 +24,20 @@
 - Started on the paper wireframe for design 2.
 ### Google IT Specialist
 - Package Managers
-#### Notes:
+
+### Ubuntu
 - Install Ubuntu on a flash drive. Update Ubuntu to latest version and update other software.
 
 ## Day 26: July 6, 2018
 #### Tasks:
-### Project: Wireframe Design 1
+### Project: [Wireframe Design 1](https://github.com/j14chambers/Wireframe-Designs/tree/master/Design%201)
 - Design in Figma complete.
 - I noticed some differences in the both programs. Figma had a slow start, it may be a bug or it eats up a lot of my processor. Figma can have multiple components on a page. Objects can be renamed.
 - Move folders around.
 
 ## Day 25: July 5, 2018
 #### Tasks:
-### Project: Wireframe Design 1
+### Project: [Wireframe Design 1](https://github.com/j14chambers/Wireframe-Designs/tree/master/Design%201)
 - Design in Gravit complete. 
 - I like Gravit better. There are some things that I wish it had, but it may be the design program that I use.
 - There are images that I can use to make the wireframe more like the actuall site that would be coded.
