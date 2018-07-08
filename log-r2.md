@@ -5,7 +5,24 @@
 ## Day : July , 2018
 #### Tasks:
 ### Project:
+#### Notes:
 
+## Day 28: July 8, 2018
+#### Tasks:
+### Project:
+#### Notes:
+##### Ubuntu
+- Install VS Code and add extensions. 
+- Install Git and added respostories to github folder on 
+
+## Day 27: July 7, 2018
+#### Tasks:
+### Project: Wireframe Design 2
+- Started on the paper wireframe for design 2.
+### Google IT Specialist
+- Package Managers
+#### Notes:
+- Install Ubuntu on a flash drive. Update Ubuntu to latest version and update other software.
 
 ## Day 26: July 6, 2018
 #### Tasks:
