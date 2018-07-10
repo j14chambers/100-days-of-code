@@ -7,6 +7,14 @@
 ### Project:
 #### Notes:
 
+## Day 29: July 9, 2018
+#### Tasks:
+### Project: [Wireframe Design 1](https://github.com/j14chambers/Wireframe-Designs/tree/master/Design%201)
+- Completely added in CSS and made some what moblie responsive. Have to come back and look over the page.
+- Grab the images from the wireframe in Gravit.
+### Google IT Specialist
+- Devices and Drivers
+- Qwiklabs for linux and windows complete.
 ## Day 28: July 8, 2018
 #### Tasks:
 ### Project: [Wireframe Design 1](https://github.com/j14chambers/Wireframe-Designs/tree/master/Design%201)
@@ -63,7 +71,7 @@
 ## Day 18: June 28, 2018
 
 #### Tasks:
-### Project: [Node Project 1]()
+### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
 - Add in my own CSS, classes, and IDs
 - I have to figure out how to format the pargraphs in the data.
 - This make become the site that I do for a full website wireframe.
