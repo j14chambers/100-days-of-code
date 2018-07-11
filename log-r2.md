@@ -7,6 +7,25 @@
 ### Project:
 #### Notes:
 
+
+## Day 30: July 10, 2018
+#### Tasks:
+### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
+- Video 8: Messages and Validation
+- Install express-messages, express-session, flash to have messages for when a article is created, edited, or fields are empthy.
+- This starts pt 2 of Node JS 1
+### Project: Jekyll Theme
+- Tried to get a Jekyll Theme going. I have to come back on another day and see how to locally deploy themes from github. I got a theme set up through the command from [Jekyll website](https://jekyllrb.com/docs/windows/) and through a [tutorial](https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332).
+- [Github Jekyll Documentation](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+#### Jekyll commands:
+Run the server for theme. Server is <b> localhost:4000</b>
+
+    jekyll serve 
+
+Start a new website with theme
+
+    jekyll new [Site Name] 
+
 ## Day 29: July 9, 2018
 #### Tasks:
 ### Project: [Wireframe Design 1](https://github.com/j14chambers/Wireframe-Designs/tree/master/Design%201)
