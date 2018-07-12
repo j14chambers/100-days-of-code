@@ -7,6 +7,14 @@
 ### Project:
 #### Notes:
 
+## Day 30: July 10, 2018
+#### Tasks:
+### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
+- Video 9: User Registration
+- Add registration and login page for users. Users can create a profile.
+
+### Google IT Specialist
+- Filesytems (6)
 
 ## Day 30: July 10, 2018
 #### Tasks:
