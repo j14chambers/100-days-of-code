@@ -7,14 +7,19 @@
 ### Project:
 #### Notes:
 
-## Day 30: July 10, 2018
+## Day 31: July 11, 2018
 #### Tasks:
 ### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
 - Video 9: User Registration
 - Add registration and login page for users. Users can create a profile.
-
 ### Google IT Specialist
 - Filesytems (6)
+### Project: Wireframe Design 2
+- I started the wireframe in Gravit.
+- I figured out how to rename objects.(Double Click)
+#### Notes:
+- Started a Blog post. 100dayofCode
+- Notion has a bug with the typing, so I stopped. I will try it on the mobile app. Maybe it was just Firefox.
 
 ## Day 30: July 10, 2018
 #### Tasks:
