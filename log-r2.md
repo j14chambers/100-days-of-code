@@ -7,6 +7,23 @@
 ### Project:
 #### Notes:
 
+## Day 34: July 14, 2018
+### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
+- Video 10: User Login
+- 'When logging redirection cannot get request.' Figured out why redirection wasn't working. I had 'user' instead of 'users' which cause the redirection to the home page not to happen and the messages to show.
+- Logout button does not show when login.
+### Notes
+- Summer of Code starts today. Not sure if I will fully participate.
+## Day 33: July 13, 2018
+
+## Day 32: July 12, 2018
+#### Tasks:
+### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
+- Video 10: User Login
+- When logging redirection cannot get request
+### Google IT Specialist
+- Filesytems (4)
+
 ## Day 31: July 11, 2018
 #### Tasks:
 ### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
