@@ -6,6 +6,26 @@
 #### Tasks:
 ### Project:
 #### Notes:
+## Day 38: July 18, 2018
+### Project: [Quote Machine ReVamp](https://codepen.io/j14chambers/pen/QBKabZ?editors=1100)
+- Change CSS
+- Made Mobile Responsive
+
+## Day 37: July 17, 2018
+#### Tasks:
+- Proofread and Post Blog Post.
+- Job Applications
+## Day 36: July 16, 2018
+#### Tasks:
+- CNC Mission 1 & 2
+- Blog Post: 100 Days of Code-Week July 8-15
+- Resume revised
+### Google IT Specialist
+- Qwiklab Linux and Windows
+### Free Code Camp
+- Completed a few lessons from Web Responsive.
+
+## Day 35: July 15, 2018
 
 ## Day 34: July 14, 2018
 ### Project: [Node Project 1](https://github.com/j14chambers/Node-Project)
