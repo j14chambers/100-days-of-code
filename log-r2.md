@@ -6,6 +6,40 @@
 #### Tasks:
 ### Project:
 #### Notes:
+
+
+## Day 45 July 25, 2018
+## Day 44: July 24, 2018
+
+## Day 43: July 23, 2018
+#### Tasks:
+	- Read Pages from 'Coding Interviews'
+### Project: [Sass](https://codepen.io/j14chambers/pen/ajpQwK?editors=0100)
+- FCC stopped responding. Completed this section.
+- Add in what was learned today to webpage. 
+- Nothing from FCC was working in Codepen.
+
+### Google IT Specialist
+- Remote Access
+
+## Day 42: July 22, 2018
+
+## Day 41: July 21, 2018
+### Project: [Sass](https://codepen.io/j14chambers/pen/ajpQwK?editors=0100)
+- Learning how to use Sass in the CSS. 
+- I think that is better sytan wise. It is a cleaner look and less to write. Then there is the ability to tab under a parent to add css to it's chlidren.
+
+### Google IT Specialist
+- Qwiklab Linux and Windows
+
+#### Tasks:
+## Day 40: July 20, 2018
+#### Tasks:
+- Tax Free Weekend
+- Attempted to do a Code wars problem. I need console log to be able to see errors. VS code was not working properly.
+
+## Day 39: July 19, 2018
+
 ## Day 38: July 18, 2018
 ### Project: [Quote Machine ReVamp](https://codepen.io/j14chambers/pen/QBKabZ?editors=1100)
 - Change CSS
@@ -15,13 +49,16 @@
 #### Tasks:
 - Proofread and Post Blog Post.
 - Job Applications
+
 ## Day 36: July 16, 2018
 #### Tasks:
 - CNC Mission 1 & 2
 - Blog Post: 100 Days of Code-Week July 8-15
 - Resume revised
+
 ### Google IT Specialist
 - Qwiklab Linux and Windows
+
 ### Free Code Camp
 - Completed a few lessons from Web Responsive.
 
