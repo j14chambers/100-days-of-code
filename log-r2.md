@@ -23,12 +23,12 @@
 
 ## Day 44: July 24, 2018
 #### Tasks:
-	- Sass tutorial on Youtube
+  - Sass tutorial on Youtube
 
 ## Day 43: July 23, 2018
 #### Tasks:
-	- Read Pages from 'Coding Interviews'
-	- Started Meduim Post
+  - Read Pages from 'Coding Interviews'
+  - Started Meduim Post
 ### Project: [Sass](https://codepen.io/j14chambers/pen/ajpQwK?editors=0100)
 - FCC stopped responding. Completed this section.
 - Add in what was learned today to webpage. 
