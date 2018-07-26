@@ -9,11 +9,26 @@
 
 
 ## Day 45 July 25, 2018
+#### Tasks:
+- FCC: Card Count
+   - Had some problems with getting the `<` and `>` signs right.
+   - Got it working but forgot to add a space between count and bet or hold.
+- Medium Post
+
+#### Project: Wireframe Design 2: Workplace app to search for collueges
+- Added serach results to side; 
+- Add icons to sidebar
+- Added profile for employee
+- Adjust font and colors
+
 ## Day 44: July 24, 2018
+#### Tasks:
+	- Sass tutorial on Youtube
 
 ## Day 43: July 23, 2018
 #### Tasks:
 	- Read Pages from 'Coding Interviews'
+	- Started Meduim Post
 ### Project: [Sass](https://codepen.io/j14chambers/pen/ajpQwK?editors=0100)
 - FCC stopped responding. Completed this section.
 - Add in what was learned today to webpage. 
