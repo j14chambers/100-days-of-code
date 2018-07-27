@@ -7,8 +7,13 @@
 ### Project:
 #### Notes:
 
-
-## Day 45 July 25, 2018
+## Day 46: July 26, 2018
+#### Project: [Event Invitation]()
+- I added sass. I also had to remove bootstrap from the website. None of the css was styling correctly.
+- Gallery page got rearranged. I am using flexbox inside of bootstrap and css grid.
+#### Tasks:
+  - Sass Tutorial
+## Day 45: July 25, 2018
 #### Tasks:
 - FCC: Card Count
    - Had some problems with getting the `<` and `>` signs right.
