@@ -2,10 +2,25 @@
 # 100 Days of Code - Round 2
 
 
-## Day : July , 2018
+## Day : August , 2018
 #### Tasks:
 ### Project:
 #### Notes:
+
+
+## Day 52: August 1, 2018
+### Google IT Specialist
+- Quiz Week 1 done
+
+#### Tasks
+  - Sass Tutorial video 7 - 9
+  - Gravit Design of Charitable Organization
+  - Writing Blog Post
+
+## Day 51: July 31, 2018
+### Google IT Specialist
+### Free Code Camp
+- ES6
 
 ## Day 46: July 26, 2018
 #### Project: [Event Invitation]()
@@ -13,6 +28,7 @@
 - Gallery page got rearranged. I am using flexbox inside of bootstrap and css grid.
 #### Tasks:
   - Sass Tutorial
+  
 ## Day 45: July 25, 2018
 #### Tasks:
 - FCC: Card Count
