@@ -7,6 +7,18 @@
 ### Project:
 #### Notes:
 
+## Day 53: August 2, 2018
+#### Project: [Event Invitation]()
+- Finished gallery page. Have to make it responsive.
+- Update footer and header on all pages.
+- Started on Home page.
+#### Tasks
+### Google IT Specialist
+- 1 section done
+
+## Day 53: August 2, 2018
+#### Tasks
+  - Sass Tutorial video 10
 
 ## Day 52: August 1, 2018
 ### Google IT Specialist
